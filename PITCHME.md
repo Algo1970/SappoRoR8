@@ -220,7 +220,7 @@ Note:
 ### 肝腎輝度比グレード
 
 LKcontrast<=1.5
-<img src="img/LKcontrast3.png" width="800"> 
+<img src="img/LKcontrast3.png" width="600"> 
 1.5<LKcontrast<=2.0,   2.0<LKcontrast
 
 +++
