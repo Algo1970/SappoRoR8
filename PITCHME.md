@@ -216,6 +216,10 @@ Note:
 
 <img src="img/LKcontrast_BMI_ALT.png" width="800"> 
 
++++
+### LKgrade1-3
+
+<img src="img/LKcontrast3.png" width="800"> 
 
 +++
 ### 考察
