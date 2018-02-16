@@ -224,67 +224,17 @@ Note:
 Shiny app作って考える事…
 
 ---
-### 私がshinyアプリ作ると
+### shinyアプリ作成で困ること
 
 1. render関数が覚えられない
-2. コードが長くて、読みにくい
+2. **コードが長くて、読みにくい**
 3. たまに変数に代入が上手くいかない
 4. エラーの原因がわかりにくい…
 
 +++
-### よくやる問題点
-
-- 永続代入演算子(<<-)で代入できない？<br>
-　　（環境問題）
-- コードが長くて、読みにくい<br>
+### コードが長くて、読みにくい<br>
 　　（アン・リーダブルコード問題？）
 
-+++
-### shinyの環境ついて
-
-<img src="img/env2.jpg" width="800">  
-とてもシンプルなshinyアプリを考えてみます。
-
-+++
-### shinyの環境
-
-<img src="img/env_orange.png" width="800">  
-env_Aはグローバル環境
-
-+++
-### 実行中のshinyの環境
-
-<img src="img/env_demo.png" width="800">  
-
-+++
-### shinyのグローバル環境は？
-
-<img src="img/env_demo2.png" width="800">  
-
-+++
-### shinyの環境の結論
-
-<img src="img/env_demo3.png" width="600">  
-
-+++
-### グローバル環境にデータ置けない？
-
-> assign()を使うと任意の環境に付置できる。
-> (R言語徹底解説 P.155-156)   
-
-+++
-### ASSIGN
-
-グローバル環境に付置
-```
-assign("birth","2001-01-01",.GlobalEnv)
-```
-グローバル環境から値を取得
-```
-get("birth", envir = .GlobalEnv)
-```
-<br>
-<font size="5" color="gray">使いみちは不明ですが、shiny実行中も<br>グローバル環境にアクセスできます。</font>
 
 --- 
 ### コードの可読性
