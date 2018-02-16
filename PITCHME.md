@@ -221,7 +221,7 @@ Note:
 
 LKcontrast<=1.5
 <img src="img/LKcontrast3.png" width="800"> 
-1.5<LKcontrast<=2.0, 2.0<LKcontrast
+1.5<LKcontrast<=2.0,   2.0<LKcontrast
 
 +++
 ### 考察
