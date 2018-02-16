@@ -217,9 +217,11 @@ Note:
 <img src="img/LKcontrast_BMI_ALT.png" width="800"> 
 
 +++
-### LKgrade1-3
+### 肝腎輝度比グレード
 
+LKcontrast<=1.5
 <img src="img/LKcontrast3.png" width="800"> 
+1.5<LKcontrast<=2.0, 2.0<LKcontrast
 
 +++
 ### 考察
