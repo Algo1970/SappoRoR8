@@ -224,13 +224,13 @@ Note:
 +++
 ### 肝腎輝度比グレード
 
-<img src="img/FL_grade.gif" width="700"> 
+<img src="img/FL_grade.gif" width="600"> 
 
 +++
 ### 肝腎輝度比による分類
 
 
-<img src="img/LK_grade.png" width="700"> 
+<img src="img/LK_grade.png" width="600"> 
 
 
 +++
