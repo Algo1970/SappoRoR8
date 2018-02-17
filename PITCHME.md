@@ -42,9 +42,9 @@ Note:
 
 
 +++
-### 脂肪肝のカテゴリー
+### 脂肪肝の分類
 
-<img src="img/NAFLD_diagram.png" title="NAFLD" width="800">  
+<img src="img/NAFLD_diagram.jpg" title="NAFLD" width="800">  
 
 Note:
 脂肪肝は、まずアルコール性の肝障害とそれ以外に大きくわけられます。アルコール性は肝硬変にいたる疾患群として以前より認知されておりましたが、非アルコール性肝疾患も、一部の群で肝炎から肝硬変、肝発癌に至るNASHと呼ばれる疾患が知られるようになりました。
