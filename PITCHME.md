@@ -34,7 +34,7 @@ Note:
 Note:
 まず脂肪肝についての一般的な内容をお話します。
 
----
++++
 ### 脂肪肝とは
 
 <img src="img/FL_JSGE.png" title="NAFLD" width="350">  
