@@ -228,7 +228,7 @@ Note:
 <img src="img/LKcontrast_BMI_ALT.png" width="600"> 
 
 +++
-### 肝腎輝度比グレード
+### 脂肪肝のグレード
 
 <img src="img/FL_grade.gif" width="600"> 
 
@@ -314,6 +314,9 @@ Person <- setRefClass(
 @[2](クラス名を定義)
 @[3-5](フィールドを定義)
 @[6-9](メソッドを定義)
+
+Note:
+.selfはクラス自身を指します。
 
 +++
 ### RCの継承サンプル
@@ -477,6 +480,8 @@ shinyApp(ui = ui, server = server)
 @[7-8](テキスト入力欄とアクションボタン)
 @[11-13](ボタンを押したら、IDを保存)
 
+Note:
+2行で、沢山の変数、関数を準備できます。
 
 ---
 ### 後半のまとめ
