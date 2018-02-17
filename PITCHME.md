@@ -224,9 +224,14 @@ Note:
 +++
 ### 肝腎輝度比グレード
 
-LKcontrast<=1.5
-<img src="img/LKcontrast3.png" width="700"> 
-1.5<LKcontrast<=2.0,   2.0<LKcontrast
+<img src="img/FL_grade.gif" width="700"> 
+
++++
+### 肝腎輝度比グレード
+
+
+<img src="img/LK_grade.png" width="700"> 
+
 
 +++
 ### 考察
