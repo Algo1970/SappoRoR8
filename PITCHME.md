@@ -192,10 +192,13 @@ Note:
 
 <img src="img/REC.gif" width="800">  
 
----
++++
 ### 肝脂肪定量化shinyアプリ
 
 <img src="img/SteatosisChecker.gif" width="800">   
+
+---
+### 計測してみましょう
 
 --- 
 ### 対象、方法
