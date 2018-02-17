@@ -212,9 +212,16 @@ Note:
 - 肝腎コントラストが比較的中心で描出され、アーチファクトの影響の少ない画像を使用
 
 +++
-### 肝腎輝度比
+### 肝腎輝度比、輝度差
+
+<img src="img/LK_boxplot.png" width="800"> 
+
++++
+### 肝腎輝度比と輝度差
 
 <img src="img/LKcontrast_LKdiff.png" width="800"> 
+
+
 
 +++
 ### 肝腎輝度比とBMI/ALT
