@@ -35,8 +35,8 @@ Note:
 ---
 ### 脂肪肝とは
 
-<img src="img/FL_JSGE.png" title="NAFLD" width="400">  
-<font size="5" color="gray">脂肪肝とは肝臓に脂肪が過剰に蓄積した状態であり，肝臓内の肝細胞の30％以上に脂肪空胞が認められる状態をいいます。</font>
+<img src="img/FL_JSGE.png" title="NAFLD" width="350">  
+<font size="4" color="gray">脂肪肝とは肝臓に脂肪が過剰に蓄積した状態であり，<br>肝臓内の肝細胞の30％以上に脂肪空胞が認められる状態をいいます。</font>
 
 
 ---
