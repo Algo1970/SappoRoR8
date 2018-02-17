@@ -207,7 +207,7 @@ Note:
 +++
 ### 肝腎輝度比、輝度差
 
-<img src="img/LK_boxplot.png" width="800"> 
+<img src="img/LK_boxplot.png" width="600"> 
 
 +++
 ### 肝腎輝度比と輝度差
