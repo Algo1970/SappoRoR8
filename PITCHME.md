@@ -66,7 +66,7 @@ Note:
 +++
 ### NAFLDから肝硬変へ
 
-<img src="img/NL_CH_LC.png" width="800">  
+<img src="img/NL_CH_LC.png" width="600">  
 
 +++
 ### NAFLD病理所見のポイント
