@@ -212,14 +212,14 @@ Note:
 +++
 ### 肝腎輝度比と輝度差
 
-<img src="img/LKcontrast_LKdiff.png" width="800"> 
+<img src="img/LKcontrast_LKdiff.png" width="600"> 
 
 
 
 +++
 ### 肝腎輝度比とBMI/ALT
 
-<img src="img/LKcontrast_BMI_ALT.png" width="800"> 
+<img src="img/LKcontrast_BMI_ALT.png" width="600"> 
 
 +++
 ### 肝腎輝度比グレード
