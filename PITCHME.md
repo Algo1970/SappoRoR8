@@ -242,17 +242,10 @@ Note:
 
 <img src="img/LK_colormodel3.png" width="600"> 
 
-[](
-+++  
-### 肝脂肪化grade分類 
++++
+### NAFLD/NASH診療<br>ガイドライン2014
 
-grade分類        |   
------------- | -------------  
-grade 0 | 肝実質エコーレベル上昇  
-grade 1　|　軽度実質エコー上昇と、肝内脈管、横隔膜の正常描出  
-  
-<br><font size="5" color="gray">Saadehら Gastroenterology 2002</font> 
-)
+> Saadehらは、US所見によって脂肪肝の重症度を分類しているが、肝臓の脂肪沈着量は検査施行者の主観的な部分に依存する場合が多く、脂肪量の定量までは困難である。
 
 +++
 ### 肝腎輝度比による分類
