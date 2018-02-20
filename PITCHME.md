@@ -243,6 +243,15 @@ Note:
 <img src="img/LK_colormodel3.png" width="600"> 
 
 +++
+### 肝脂肪化grade分類
+
+grade分類        | 
+------------ | -------------
+grade 0 | 肝実質エコーレベル上昇
+grade 1　|　軽度実質エコー上昇と、肝内脈管、横隔膜の正常描出
+<br><font size="5" color="gray">Saadehら Gastroenterology 2002</font> 
+
++++
 ### 肝腎輝度比による分類
 
 
