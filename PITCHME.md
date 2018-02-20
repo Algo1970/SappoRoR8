@@ -238,7 +238,7 @@ Note:
 <img src="img/FL_grade.gif" width="600"> 
 
 +++
-### 判別可能な輝度比
+### 輝度比カラーモデル
 
 <img src="img/LK_colormodel3.png" width="600"> 
 
