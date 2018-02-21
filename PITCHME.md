@@ -230,7 +230,7 @@ Note:
 +++
 ### 脂肪肝のグレード
 
-<img src="img/FL_grade.gif" width="600"> 
+<img src="img/empirical_USgrade.png" width="600"> 
 
 +++
 ### 輝度比カラーモデル
