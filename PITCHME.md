@@ -250,7 +250,7 @@ EBImageでカラーモデルを作成しました。
 +++
 ### 肝腎輝度比による分類
 
-<img src="img/LK_USgrade.png" width="700">  
+<img src="img/LK_USgrade.png" width="600">  
 
 +++
 ### USgradeの意味とは…
