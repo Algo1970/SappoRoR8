@@ -228,9 +228,9 @@ Note:
 <img src="img/LK_BMI_ALT.png" width="800"> 
 
 +++
-### 脂肪肝のグレード
+### 経験的なUSgrade
 
-<img src="img/empirical_USgrade.png" width="600"> 
+<img src="img/empirical_USgrade.png" width="800"> 
 
 +++
 ### 輝度比カラーモデル
