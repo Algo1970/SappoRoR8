@@ -223,7 +223,7 @@ Note:
 +++
 ### 肝腎輝度比、輝度差
 
-<img src="img/LKratio_diff.png" width="800"> 
+<img src="img/LKratio_diff.png" width="700"> 
 
 Note:
 肝腎輝度比は、1.0-2.5ぐらいの範囲。中央値1.2、第三四分位点が1.5。
@@ -233,7 +233,7 @@ Note:
 +++
 ### 経験的な脂肪化grade
 
-<img src="img/empirical_USgrade.png" width="800"> 
+<img src="img/empirical_USgrade.png" width="700"> 
 
 +++
 ### 輝度の違いはどこまでわかる？
