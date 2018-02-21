@@ -188,7 +188,7 @@ Note:
 +++
 ### OCRコード
 
-magick ,tesseractパッケージを使用します。
+magick ,tesseractパッケージを使用
 
 <img src="img/shiny_ocr.png" width="800">  
 
