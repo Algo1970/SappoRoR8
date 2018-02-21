@@ -228,7 +228,10 @@ Note:
 <img src="img/LK_BMI_ALT.png" width="800"> 
 
 +++
-### 経験的なUSgrade
+### 輝度の違いはどこまでわかる
+
++++
+### 経験的な脂肪化grade
 
 <img src="img/empirical_USgrade.png" width="800"> 
 
