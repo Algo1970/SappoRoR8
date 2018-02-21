@@ -178,7 +178,6 @@ Note:
 +++
 ### 画像読み込みとOCR
 
-magick ,tesseractパッケージを使用します。
 <img src="img/OpenFile.gif" width="800">  
 
 +++
@@ -188,7 +187,8 @@ magick ,tesseractパッケージを使用します。
 
 +++
 ### OCRコード
-magick,
+
+magick ,tesseractパッケージを使用します。
 
 <img src="img/shiny_ocr.png" width="800">  
 
