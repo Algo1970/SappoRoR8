@@ -227,8 +227,6 @@ Note:
 
 <img src="img/LK_BMI_ALT.png" width="800"> 
 
-+++
-### 輝度の違いはどこまでわかる？
 
 +++
 ### 経験的な脂肪化grade
@@ -236,9 +234,15 @@ Note:
 <img src="img/empirical_USgrade.png" width="800"> 
 
 +++
+### 輝度の違いはどこまでわかる？
+
++++
 ### 輝度比カラーモデル
 
 <img src="img/LK_colormodel3.png" width="600"> 
+
+Note:
+EBImageでカラーモデルを作成しました。
 
 +++
 ### 定量化は難しい？
@@ -249,7 +253,7 @@ Note:
 ### 肝腎輝度比による分類
 
 
-<img src="img/LK_grade.png" width="600"> 
+<img src="img/LK_USgrade.png" width="600"> 
 
 
 +++
