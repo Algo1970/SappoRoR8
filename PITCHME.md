@@ -253,7 +253,7 @@ EBImageでカラーモデルを作成しました。
 <img src="img/LK_USgrade.png" width="600">  
 
 +++
-### USgradeの意味とは…
+### USグレードの意味とは…
 
 Note:
 脂肪肝のUSgradeは、定量化できない脂肪肝を、人間の眼で判別ができるようにgradingしただけで、臨床的意味を考えられたものではありません。
