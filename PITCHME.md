@@ -233,7 +233,7 @@ Note:
 +++
 ### 経験的な脂肪化grade
 
-<img src="img/empirical_USgrade.png" width="700"> 
+<img src="img/empirical_USgrade.png" width="600"> 
 
 +++
 ### 輝度の違いはどこまでわかる？
@@ -241,7 +241,7 @@ Note:
 +++
 ### 輝度比カラーモデル
 
-<img src="img/LK_colormodel3.png" width="600"> 
+<img src="img/LK_colormodel3.png" width="500"> 
 
 Note:
 EBImageでカラーモデルを作成しました。
@@ -250,7 +250,7 @@ EBImageでカラーモデルを作成しました。
 +++
 ### 肝腎輝度比による分類
 
-<img src="img/LK_USgrade.png" width="800">  
+<img src="img/LK_USgrade.png" width="700">  
 
 +++
 ### USgradeの意味とは…
@@ -261,7 +261,7 @@ Note:
 +++
 ### 肝腎輝度比とBMI/ALT
 
-<img src="img/LK_BMI_ALT.png" width="800"> 
+<img src="img/LK_BMI_ALT.png" width="700"> 
 
 Note:
 肝機能が上昇するポイント（肝腎輝度比）を見つけ、どこまで脂肪肝が改善するのを目標にするか？目標とする肝腎輝度比に到達するためには、どこまでBMIを改善すべきか、すなわち体重を落とすべきか？単純に計算された標準体重ではなく、具体的な体重を見極めることができるようになるかもしれません。
