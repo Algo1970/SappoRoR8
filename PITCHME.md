@@ -217,17 +217,10 @@ Note:
 +++
 ### 肝腎輝度比、輝度差
 
-<img src="img/LKratio_diff.png" width="600"> 
+<img src="img/LKratio_diff.png" width="800"> 
 
 Note:
 肝腎輝度比は、1.0-2.5ぐらいの範囲。中央値1.2、第三四分位点が1.5。
-
-+++
-### 肝腎輝度比と輝度差
-
-<img src="img/LKcontrast_LKdiff.png" width="800"> 
-
-
 
 +++
 ### 肝腎輝度比とBMI/ALT
