@@ -253,7 +253,7 @@ EBImageでカラーモデルを作成しました。
 ### 肝腎輝度比による分類
 
 
-<img src="img/LK_USgrade.png" width="600"> 
+<img src="img/LK_USgrade.png" width="800"> 
 
 
 +++
