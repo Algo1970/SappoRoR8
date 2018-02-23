@@ -396,6 +396,8 @@ MedicalImageInfo = setRefClass("MedicalImageInfo",
                                  } 
                                ))
 ```
+@[１](医療画像情報用のクラス)
+@[3-6](画像のパス、患者ID、名前、検査日のフィールド)
 @[9](initializeは初期化メソッド)
 
 
