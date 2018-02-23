@@ -411,6 +411,9 @@ OCR = setRefClass("OCR",
                     } 
                   ))
 ```
+
+@[3-5](extract_dataで、画像からOCRかけてデータを取り込みます)
+
 +++
 ### PatientInfoExtractor class
 
