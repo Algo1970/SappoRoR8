@@ -443,7 +443,7 @@ PatientInfoExtractor = setRefClass("PatientInfoExtractor",
 @[2](OCR、MedicalImageInfoクラスを継承して)
 @[4-6](ID,名前、日付のgeometoryフィールドを作成)
 @[9-19](ID,名前、日付を抽出するメソッドを追加)
-<font size="5" color="gray">これで、エコー画像も内視鏡画像も<br>OCRが使えるクラスが出来ました。</font>
+@[](エコー画像も内視鏡画像もOCRが使えるクラス)
 
 +++
 ### US用の参照クラス
@@ -469,7 +469,7 @@ Xario200 = setRefClass("Xario200",
 ```
 @[2](患者情報抽出クラスを継承して)
 @[7-9](当院のエコー用ID,名前、日付geometoryを指定)
-<font size="5" color="gray">患者情報の座標が入ったUS用クラス</font>
+@[](Xario２００用の患者情報抽出クラス)
 
 +++
 ### クラス図
